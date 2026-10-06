@@ -7,8 +7,7 @@ class Solution {
         }
 
         for(int i=0; i<s.length(); i++){
-            char ch = s.charAt(i);
-            if(map.get(ch) == 1){
+            if(map.get(s.charAt(i)) == 1){
                 return i;
             }
         }
