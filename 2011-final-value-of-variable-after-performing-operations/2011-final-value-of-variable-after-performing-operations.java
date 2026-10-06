@@ -1,18 +1,13 @@
 class Solution {
     public int finalValueAfterOperations(String[] operations) {
 
-        int i=0;
-        int val = 0;
-        while(i<operations.length){
+        int x = 0;
+
+        for(int i=0; i<operations.length; i++){
             if(operations[i].equals("++X") || operations[i].equals("X++")){
-                val++;
-                i++;
-            }
-            else{
-                val--;
-                i++;
-            }
+                x++;
+            }else   x--;
         }
-        return val;
+        return x;
     }
 }
