@@ -5,13 +5,13 @@ class Solution {
         int count = 0;
 
         for(char ch : s.toCharArray()){
-            if(ch == '|'){
-                inside = !inside;
-            }
-            else if(ch == '*' && inside == false){
+            if(ch == '*' && inside == false){
                 count++;
             }
+            else if(ch == '|'){
+                inside = !inside;
+            }
         }
-        return count;
+        return count;        
     }
 }
