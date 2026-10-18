@@ -1,20 +1,17 @@
 class Solution {
     public boolean canAliceWin(int[] nums) {
 
-        int single = 0;
-        int doublee = 0;
+        int singleSum = 0;
+        int doubleSum = 0;
+        int digits = 0;
 
         for(int x : nums){
-            int digits = (int)Math.log10(x) + 1;
+            digits = (int)Math.log10(x)+1;
             if(digits == 1){
-                single = single + x;
-            }else{
-                doublee = doublee + x;
-            }
+                singleSum += x;
+            }else   doubleSum += x;
         }
-        if(single != doublee){
-            return true;
-        }
+        if(singleSum != doubleSum)  return true;
         return false;        
     }
 }
