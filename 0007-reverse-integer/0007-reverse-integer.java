@@ -1,9 +1,8 @@
 class Solution {
     public int reverse(int x) {
 
-        int lastDigit = 0;
         long rev = 0;
-
+        int lastDigit = 0;
         while(x != 0){
             lastDigit = x%10;
             rev = rev*10 + lastDigit;
@@ -13,6 +12,7 @@ class Solution {
         if(rev > Integer.MAX_VALUE || rev < Integer.MIN_VALUE){
             return 0;
         }
-        return (int)rev;       
+
+        return (int) rev; 
     }
 }
