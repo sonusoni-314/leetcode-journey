@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/3115-maximum-prime-difference) |
