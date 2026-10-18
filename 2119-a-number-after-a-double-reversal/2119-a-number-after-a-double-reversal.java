@@ -15,13 +15,10 @@ class Solution {
         int rev1 = reverse(num);
         int rev2 = reverse(rev1);
 
-        // if(rev1 == rev2)
-        //     return true;
-        // return false;
-
         if(rev2 == num){
             return true;
         }
+        
         return false;
     }
 }
