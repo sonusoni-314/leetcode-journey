@@ -6,10 +6,9 @@ class Solution {
         int digits = 0;
 
         for(int x : nums){
-            digits = (int)Math.log10(x)+1;
-            if(digits == 1){
-                singleSum += x;
-            }else   doubleSum += x;
+            if(x > 9){
+                 doubleSum += x;
+            }else   singleSum += x;
         }
         if(singleSum != doubleSum)  return true;
         return false;        
