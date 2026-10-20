@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1528-shuffle-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -520,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
