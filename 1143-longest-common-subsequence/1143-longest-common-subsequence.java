@@ -21,7 +21,7 @@ class Solution {
         else{
             dp[i][j] = Math.max(solve(text1, text2, i+1, j, dp), 
                                 solve(text1, text2, i, j+1, dp));
-            return dp[i][j];
         }
+        return dp[i][j];
     }
 }
