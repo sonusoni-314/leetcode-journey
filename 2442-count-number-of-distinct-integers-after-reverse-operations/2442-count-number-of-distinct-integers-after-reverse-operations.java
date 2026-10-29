@@ -13,10 +13,11 @@ class Solution {
         HashSet <Integer> set = new HashSet <>();
         for(int x : nums){
             set.add(x);
-        }
-        for(int x : nums){
             set.add(reverse(x));
         }
+        // for(int x : nums){
+        //     set.add(reverse(x));
+        // }
         return set.size();
     }
 }
