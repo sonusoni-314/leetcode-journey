@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0279-perfect-squares) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
