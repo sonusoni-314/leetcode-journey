@@ -10,9 +10,16 @@ class Solution {
             }
         }
 
+        // for(int x : nums){
+        //     moves += x - min;
+        // }
+
+        int n = nums.length;
+        int sum = 0;
         for(int x : nums){
-            moves += x - min;
+            sum += x;
         }
+        moves = sum - n*min;
         return moves;
     }
 }
