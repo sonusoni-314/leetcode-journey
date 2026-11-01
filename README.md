@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1563-stone-game-v) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1872-stone-game-viii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2404-most-frequent-even-element) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
