@@ -6,7 +6,11 @@ class Solution {
             map.put(ch, map.getOrDefault(ch, 0) +1);
         }
 
-        ArrayList <Character> list = new ArrayList<>(map.keySet());
+        ArrayList <Character> list = new ArrayList<>();
+
+        for(char x : map.keySet()){
+            list.add(x);
+        }
         list.sort( (a, b) -> Integer.compare( map.get(b), map.get(a) ));
 
         StringBuilder sb = new StringBuilder();
