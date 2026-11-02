@@ -1,29 +1,29 @@
 class Solution {
     public int[] numberOfPairs(int[] nums) {
 
-        HashMap <Integer, Integer> map = new HashMap <>();
-        HashSet <Integer> set = new HashSet <>();
-        int pair = 0;
+        int n = nums.length;
+        int pairs = 0;
         int left = 0;
-        int count = 0;
-        int[] ans = new int[2];
+        int[] arr = new int[2];
+
+        HashMap<Integer, Integer> map = new HashMap<>();
 
         for(int x : nums){
-            map.put(x, map.getOrDefault(x, 0) +1);
+            map.put(x, map.getOrDefault(x, 0) + 1);
         }
 
         for(int x : map.keySet()){
-            if(map.get(x) %2 == 0){
-                pair = map.get(x)/2 + pair;
-            }
-            else{
-                left = map.get(x) -1;
-                count++;
-                pair += left/2;
+            while(map.get(x) >= 2){
+                pairs++;
+                map.put(x, map.get(x) - 2);
             }
         }
-        ans[0] = pair;
-        ans[1] = count;
-        return ans;        
+
+        left = n - 2 * pairs;
+
+        arr[0] = pairs;
+        arr[1] = left;
+
+        return arr;
     }
 }
