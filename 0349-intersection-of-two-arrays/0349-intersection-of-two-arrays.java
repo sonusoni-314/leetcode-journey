@@ -11,8 +11,8 @@ class Solution {
         for(int x : nums2){
             if(set1.contains(x)){
                 list.add(x);
+                set1.remove(x);
             }
-            set1.remove(x);
         }
         int k = 0;
         int[] arr = new int[list.size()];
