@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1512-number-of-good-pairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1512-number-of-good-pairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1927-sum-game) |
