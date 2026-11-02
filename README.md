@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0455-assign-cookies) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0455-assign-cookies) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0922-sort-array-by-parity-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
