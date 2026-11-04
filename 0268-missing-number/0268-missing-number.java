@@ -4,11 +4,10 @@ class Solution {
         int n = nums.length;
 
         int exp = (n*(n+1))/2;
-        int actual = 0;
-
-        for(int i=0; i<nums.length; i++){
-            actual += nums[i];
+        int sum = 0;
+        for(int x : nums){
+            sum += x;
         }
-        return exp - actual;        
+        return exp-sum;
     }
 }
