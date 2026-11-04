@@ -1,3 +1,11 @@
+// here use switch case becos its faster thasn hashmap
+//  Java internally needs to:
+// 1. Calculate the hash of X.
+// 2. Find the appropriate bucket.
+// 3. Locate the key.
+// 4. Return its value.
+
+// in switch case it directly return its value without any loopkup and calcution overhead
 
 class Solution {
     public int romanToInt(String s) {
@@ -29,3 +37,5 @@ class Solution {
         return sum;
     }
 }
+
+
