@@ -14,23 +14,18 @@ class Solution {
 
         int i = 0, sum = 0;
 
-        while(i < s.length()-1) {
+        while(i < s.length()) {
 
             int val = map.get(s.charAt(i));
 
-            if(val < map.get(s.charAt(i+1))){
+            if(i+1 < s.length() && val < map.get(s.charAt(i+1))){
                 sum -= val;
             } 
             else{
                 sum += val;
             }
-
             i++;
         }
-
-        // Add the last character
-        sum += map.get(s.charAt(i));
-
         return sum;
     }
 }
