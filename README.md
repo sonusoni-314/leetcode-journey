@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0091-decode-ways](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0344-reverse-string) |
