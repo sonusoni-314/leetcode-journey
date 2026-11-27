@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
+| [1328-break-a-palindrome](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1328-break-a-palindrome) |
 | [1528-shuffle-string](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1328-break-a-palindrome](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1328-break-a-palindrome) |
 | [1927-sum-game](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
