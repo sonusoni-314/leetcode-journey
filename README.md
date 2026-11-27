@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0198-house-robber) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/sonusoni-314/LeetCode_Solutions/tree/master/0860-lemonade-change) |
